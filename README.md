@@ -1,2 +1,2 @@
 # ATVALPCUAD
-Atividades do livro "Algoritmos e Lógica de Programação em C Uma Abordagem Didática"
+Atividades do livro "Algoritmos e Lógica de Programação em C Uma Abordagem Didática" do autor Silvio do Lago Pereira
